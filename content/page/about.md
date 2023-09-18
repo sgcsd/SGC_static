@@ -1,6 +1,6 @@
 ---
 title: About Sudanese Game collective
-subtitle: a group of Sudanese youth that aims to promote and develop the video game industry in Sudan
+subtitle: who are we?
 comments: false
 ---
 
